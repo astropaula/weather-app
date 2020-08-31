@@ -23,10 +23,13 @@ body {
 .app.warm {
   background-image: url('./images/warm.jpg');
 }
+.app.neutral {
+  background-image: url('./images/neutral.jpg');
+}
 
 main {
   min-height: 100vh;
-  background-image: linear-gradient(to bottom, rgba(0,0,0,0.2), rgba(0,0,0,0.75));
+  /* background-image: linear-gradient(to bottom, rgba(0,0,0,0.2), rgba(0,0,0,0.75)); */
   padding: 25px;
 }
 

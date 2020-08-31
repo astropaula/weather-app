@@ -36,7 +36,7 @@ function App() {
     return `${day} ${date} ${month} ${year}`
   }
   return (
-    <div className={(typeof weather.main != "undefined") ? ((weather.main.temp > 16) ? 'app warm' : 'app') : 'app'}>
+    <div className={(typeof weather.main != "undefined") ? ((weather.main.temp > 16) ? 'app warm' : 'app') : 'app neutral'}>
       <main>
         <div className="search-box">
           <input type="text" className="search-bar" placeholder="Search..." onChange={e => setQuery(e.target.value)} value={query} onKeyPress={search}></input>
