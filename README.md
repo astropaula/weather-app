@@ -16,7 +16,7 @@ Simple app created with react to check the weather.
 * JSX
 
 # Usage
-* Type city You are interested in and wait for 
+* Type city You are interested in and check the weather
 * https://astropaula.github.io/weather-app
 
 # Description
