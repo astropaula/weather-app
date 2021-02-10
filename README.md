@@ -17,7 +17,7 @@ Simple app created with react to check the weather.
 
 # Usage
 * Type city You are interested in and check the weather
-* https://astropaula.github.io/weather-app
+* https://paulawojciechowska.github.io/weather-app
 
 # Description
 Project was made to play with weather `API`.
